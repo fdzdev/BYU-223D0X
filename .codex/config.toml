@@ -1,0 +1,6 @@
+# Project-local Codex configuration.
+# Indexes the course docs so the assistant can answer questions about the ADTs.
+
+[mcp_servers.docs-indexer]
+command = "/bin/bash"
+args = [".codex/tools/docs-indexer.sh"]
